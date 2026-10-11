@@ -1,0 +1,3 @@
+# Optional GUI dependency. PyQt5 >= 5.15 is also supported instead.
+# Use your distribution package or a dedicated virtual environment.
+PyQt6>=6.5,<7

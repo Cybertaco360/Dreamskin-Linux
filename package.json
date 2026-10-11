@@ -1,0 +1,14 @@
+{
+  "name": "dreamskin-linux",
+  "version": "0.1.2",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "doctor": "node bin/dreamskin.mjs doctor"
+  }
+}
