@@ -2,6 +2,8 @@
 
 A Linux theme manager for the ChatGPT/Codex desktop shell, using DreamSkin's MIT-licensed Skin API 1 renderer and exact Safe CSS policy. Version 0.1.2 is a local implementation, not an upstream release or a certified port.
 
+**All credit goes to the original Dreamskin project.**
+
 ## Start
 
 Install Node.js 22 or newer, Python 3, and Pillow. The native manager uses PyQt6, with PyQt5 as a fallback. Install one binding for the Python interpreter that launches the manager. See DISTROS.md for package-manager differences. There are no npm dependencies.
